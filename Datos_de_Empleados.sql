@@ -1,0 +1,6 @@
+INSERT [dbo].[Empleados] ([IDEmpleado], [Primer_Nombre], [Segundo_Nombre], [Primer_Apellido],[Usuario],[Contraseña]) VALUES (1, N'Angie', N'Daniela', N'Garache',N'sasuhin23',N'12345')
+INSERT [dbo].[Empleados] ([IDEmpleado], [Primer_Nombre], [Segundo_Nombre], [Primer_Apellido],[Usuario],[Contraseña]) VALUES (2, N'Byron', N'Alberto', N'Pineda',N'bipined',N'bipined123')
+INSERT [dbo].[Empleados] ([IDEmpleado], [Primer_Nombre], [Segundo_Nombre], [Primer_Apellido],[Usuario],[Contraseña]) VALUES (3, N'Yosselin', N'Estela', N'Argueta',N'titian16',N'Otti16')
+INSERT [dbo].[Empleados] ([IDEmpleado], [Primer_Nombre], [Segundo_Nombre], [Primer_Apellido],[Usuario],[Contraseña]) VALUES (4, N'Juan', N'Eduardo', N'Martinez',N'JNmart',N'jn-45')
+INSERT [dbo].[Empleados] ([IDEmpleado], [Primer_Nombre], [Segundo_Nombre], [Primer_Apellido],[Usuario],[Contraseña]) VALUES (5, N'Fernanda', N'Aisha', N'Gomez',N'Ferg',N'aisha457')
+INSERT [dbo].[Empleados] ([IDEmpleado], [Primer_Nombre], [Segundo_Nombre], [Primer_Apellido],[Usuario],[Contraseña]) VALUES (6, N'Christian', N'Fernando', N'Midence',N'chrmid',N'chunta02')
