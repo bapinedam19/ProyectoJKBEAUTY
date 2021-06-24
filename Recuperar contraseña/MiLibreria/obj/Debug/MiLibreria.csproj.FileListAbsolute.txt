@@ -1,0 +1,6 @@
+C:\Users\cahf2\source\repos\Recuperar contraseña\MiLibreria\bin\Debug\MiLibreria.dll
+C:\Users\cahf2\source\repos\Recuperar contraseña\MiLibreria\bin\Debug\MiLibreria.pdb
+C:\Users\cahf2\source\repos\Recuperar contraseña\MiLibreria\obj\Debug\MiLibreria.csproj.AssemblyReference.cache
+C:\Users\cahf2\source\repos\Recuperar contraseña\MiLibreria\obj\Debug\MiLibreria.csproj.CoreCompileInputs.cache
+C:\Users\cahf2\source\repos\Recuperar contraseña\MiLibreria\obj\Debug\MiLibreria.dll
+C:\Users\cahf2\source\repos\Recuperar contraseña\MiLibreria\obj\Debug\MiLibreria.pdb

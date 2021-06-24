@@ -1,0 +1,14 @@
+C:\Users\cahf2\source\repos\Recuperar contraseña\Recuperar contraseña\bin\Debug\Recuperar contraseña.exe.config
+C:\Users\cahf2\source\repos\Recuperar contraseña\Recuperar contraseña\bin\Debug\Recuperar contraseña.exe
+C:\Users\cahf2\source\repos\Recuperar contraseña\Recuperar contraseña\bin\Debug\Recuperar contraseña.pdb
+C:\Users\cahf2\source\repos\Recuperar contraseña\Recuperar contraseña\obj\Debug\Recuperar contraseña.csproj.AssemblyReference.cache
+C:\Users\cahf2\source\repos\Recuperar contraseña\Recuperar contraseña\obj\Debug\Recuperar_contraseña.Form1.resources
+C:\Users\cahf2\source\repos\Recuperar contraseña\Recuperar contraseña\obj\Debug\Recuperar_contraseña.Properties.Resources.resources
+C:\Users\cahf2\source\repos\Recuperar contraseña\Recuperar contraseña\obj\Debug\Recuperar_contraseña.VentanaContraseña.resources
+C:\Users\cahf2\source\repos\Recuperar contraseña\Recuperar contraseña\obj\Debug\Recuperar contraseña.csproj.GenerateResource.cache
+C:\Users\cahf2\source\repos\Recuperar contraseña\Recuperar contraseña\obj\Debug\Recuperar contraseña.csproj.CoreCompileInputs.cache
+C:\Users\cahf2\source\repos\Recuperar contraseña\Recuperar contraseña\obj\Debug\Recuperar contraseña.exe
+C:\Users\cahf2\source\repos\Recuperar contraseña\Recuperar contraseña\obj\Debug\Recuperar contraseña.pdb
+C:\Users\cahf2\source\repos\Recuperar contraseña\Recuperar contraseña\bin\Debug\MiLibreria.dll
+C:\Users\cahf2\source\repos\Recuperar contraseña\Recuperar contraseña\bin\Debug\MiLibreria.pdb
+C:\Users\cahf2\source\repos\Recuperar contraseña\Recuperar contraseña\obj\Debug\Recuperar contraseña.csproj.CopyComplete

@@ -1,0 +1,6 @@
+Teniendo el proyecto abierto:
+Vamos a la libreria de clase llamada MiLibreria, luego click derecho -> Compilar.
+Luego el el proyecto "Recuperar contraseña" Click derecho -> agregar referencia, luego vamos a examinar y tenemos que estar en: Recuperar contraseña\MiLibreria\bin\Debug  
+Agregamos el archivo .ddl llamado MiLibreria y le damos aceptar al administrador de referencias.
+
+CésarH.
