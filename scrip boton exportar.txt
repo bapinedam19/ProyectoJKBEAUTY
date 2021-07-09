@@ -1,0 +1,46 @@
+ private void BFB_Exportar_Click(object sender, EventArgs e)
+        {
+            exportaraexcel(DGV_proveedor);
+        }
+        public void exportaraexcel(DataGridView DGV_proveedor)
+        {
+
+            Microsoft.Office.Interop.Excel.Application excel = new Microsoft.Office.Interop.Excel.Application();
+
+            excel.Application.Workbooks.Add(true);
+
+            int IndiceColumna = 0;
+
+            foreach (DataGridViewColumn col in DGV_proveedor.Columns) // Columnas
+            {
+
+                IndiceColumna++;
+
+                excel.Cells[1, IndiceColumna] = col.Name;
+
+            }
+
+            int IndeceFila = 0;
+
+            foreach (DataGridViewRow row in DGV_proveedor.Rows) // Filas
+            {
+
+                IndeceFila++;
+
+                IndiceColumna = 0;
+
+                foreach (DataGridViewColumn col in DGV_proveedor.Columns)
+                {
+
+                    IndiceColumna++;
+
+                    excel.Cells[IndeceFila + 1, IndiceColumna] = row.Cells[col.Name].Value;
+
+                }
+
+            }
+
+            excel.Visible = true;
+
+
+        }
