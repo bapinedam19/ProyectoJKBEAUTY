@@ -1,0 +1,10 @@
+C:\Users\OMEN - 17\Desktop\vistaExistencia\vistaExistencia\vistaExistencia\bin\Debug\vistaExistencia.exe.config
+C:\Users\OMEN - 17\Desktop\vistaExistencia\vistaExistencia\vistaExistencia\bin\Debug\vistaExistencia.exe
+C:\Users\OMEN - 17\Desktop\vistaExistencia\vistaExistencia\vistaExistencia\bin\Debug\vistaExistencia.pdb
+C:\Users\OMEN - 17\Desktop\vistaExistencia\vistaExistencia\vistaExistencia\obj\Debug\vistaExistencia.csproj.AssemblyReference.cache
+C:\Users\OMEN - 17\Desktop\vistaExistencia\vistaExistencia\vistaExistencia\obj\Debug\vistaExistencia.Properties.Resources.resources
+C:\Users\OMEN - 17\Desktop\vistaExistencia\vistaExistencia\vistaExistencia\obj\Debug\vistaExistencia.csproj.GenerateResource.cache
+C:\Users\OMEN - 17\Desktop\vistaExistencia\vistaExistencia\vistaExistencia\obj\Debug\vistaExistencia.csproj.CoreCompileInputs.cache
+C:\Users\OMEN - 17\Desktop\vistaExistencia\vistaExistencia\vistaExistencia\obj\Debug\vistaExistencia.exe
+C:\Users\OMEN - 17\Desktop\vistaExistencia\vistaExistencia\vistaExistencia\obj\Debug\vistaExistencia.pdb
+C:\Users\OMEN - 17\Desktop\vistaExistencia\vistaExistencia\vistaExistencia\obj\Debug\vistaExistencia.vistaExistencia.resources
