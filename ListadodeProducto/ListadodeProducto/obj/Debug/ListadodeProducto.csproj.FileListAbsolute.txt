@@ -1,0 +1,10 @@
+C:\Users\OMEN - 17\Desktop\listadoproducto\ListadodeProducto\ListadodeProducto\bin\Debug\ListadodeProducto.exe.config
+C:\Users\OMEN - 17\Desktop\listadoproducto\ListadodeProducto\ListadodeProducto\bin\Debug\ListadodeProducto.exe
+C:\Users\OMEN - 17\Desktop\listadoproducto\ListadodeProducto\ListadodeProducto\bin\Debug\ListadodeProducto.pdb
+C:\Users\OMEN - 17\Desktop\listadoproducto\ListadodeProducto\ListadodeProducto\obj\Debug\ListadodeProducto.csproj.AssemblyReference.cache
+C:\Users\OMEN - 17\Desktop\listadoproducto\ListadodeProducto\ListadodeProducto\obj\Debug\ListadodeProducto.visualizarProducto.resources
+C:\Users\OMEN - 17\Desktop\listadoproducto\ListadodeProducto\ListadodeProducto\obj\Debug\ListadodeProducto.Properties.Resources.resources
+C:\Users\OMEN - 17\Desktop\listadoproducto\ListadodeProducto\ListadodeProducto\obj\Debug\ListadodeProducto.csproj.GenerateResource.cache
+C:\Users\OMEN - 17\Desktop\listadoproducto\ListadodeProducto\ListadodeProducto\obj\Debug\ListadodeProducto.csproj.CoreCompileInputs.cache
+C:\Users\OMEN - 17\Desktop\listadoproducto\ListadodeProducto\ListadodeProducto\obj\Debug\ListadodeProducto.exe
+C:\Users\OMEN - 17\Desktop\listadoproducto\ListadodeProducto\ListadodeProducto\obj\Debug\ListadodeProducto.pdb
