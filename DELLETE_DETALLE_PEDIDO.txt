@@ -1,0 +1,22 @@
+if (MessageBox.Show("Desea Eliminar Todos Los Datos","Advertencia",MessageBoxButtons.YesNo,MessageBoxIcon.Warning)==DialogResult.Yes)
+            {
+                try
+                {
+                    con.Open();
+                    string Eliminar = "DELETE FROM [dbo].[detallepedido]";
+
+                    SqlCommand command = new SqlCommand(Eliminar, con);
+
+                    command.ExecuteNonQuery();
+
+                    MessageBox.Show("Todos Los Datos Fueron Borrados", "Informacion", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                catch(Exception x)
+                {
+                    MessageBox.Show(x.Message);
+
+                }
+                finally
+                {
+                    con.Close();
+                }
