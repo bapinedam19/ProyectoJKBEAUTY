@@ -1,0 +1,67 @@
+/******************************/
+        
+//DELETE DE INFORMACION PEDIDOS
+
+      
+  void eliminar()
+      
+  {
+           
+ if(MessageBox.Show("DESEA ELIMINAR LOS REGISTROS DE LA TABLA PEDIDOS: ",
+"NOTA",MessageBoxButtons.OKCancel,
+MessageBoxIcon.Warning)==DialogResult.OK)
+  
+         {
+               
+ try
+              
+  {
+                    
+	con.Open();
+                    
+	SqlCommand command = new SqlCommand("DELETE FROM pedido", con);
+  
+        command.ExecuteNonQuery();
+                   	
+	MessageBox.Show("REGISTROS ELIMINADOS CORRECTAMENTE","NOTA",MessageBoxButtons.OK,MessageBoxIcon.Exclamation);
+                
+    	con.Close();
+
+             
+   }
+               
+ catch(Exception x)
+             
+   {
+                   
+ MessageBox.Show(x.Message);
+
+                
+   }
+                
+   finally
+               
+   {
+                    
+    con.Close();
+
+               
+   }
+
+            
+}
+            
+            
+        
+}
+        
+private void bunifuImageButton9_Click(object sender, EventArgs e)
+      
+  {
+            
+	eliminar();
+           
+
+
+       
+  }
